@@ -2,6 +2,7 @@
 # Kate Swett's Page
 
 Welcome to my page showcasing my digital humanities projects!
+Please scroll down for links :)
 
 ## My Final Reflection
 
