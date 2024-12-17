@@ -17,6 +17,7 @@ The Education Commons project was very valuable because I was able to work with 
 I have taken a lot of concepts from this class that make my view of data and its implications more well rounded. The combination of the workshops and projects opened my eyes to several discussions between physical and digital data that I wasn’t previously aware of. I’m very proud of the work I’ve done in this class but if I went back I would like to attend more office hours and discuss topics I found especially interesting. I definitely found the class to be very interesting and would happily take another class or workshop highlighting the importance of digital humanities.
 
 Works Cited:
+
 99U. “Giorgia Lupi: Finding Humanity in Data.” YouTube, 26 June 2019,
 www.youtube.com/watch?v=IYRhCZ0vvFQ.
 
